@@ -15,8 +15,8 @@
 	2) Locate to your user scripts folder(a hidden folder):
 	   https://docs.toonboom.com/help/harmony-17/premium/scripting/import-script.html	
 	   
-	3) Add all unzipped files (*.js, *.ui, and script-icons folder) directly to the folder above.   
-	4) Add one or both of the following functions to any toolbar:
+	3) There is a folder named "src" inside the zip file. Copy all its contents directly to the folder above.   
+	4) In Harmony, add one or both of the following functions to any toolbar:
 
 	   - PAL_Remove_All_Unused_Colors_And_Palettes
 	   - PAL_Remove_Unused_Colors_On_Selected_Palette
